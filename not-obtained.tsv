@@ -1,0 +1,6 @@
+source	title	url	reason
+isd	Citizenship Guidance Document	https://www.irishimmigration.ie/wp-content/uploads/2024/04/Citizenship-Guidance-Document-April-2024.pdf	response is not a pdf file (error or bot-check page?)
+ipo	IPO information note, January 2017	https://web.archive.org/web/2017id_/http://www.ipo.gov.ie/en/IPO/IPO%20INFORMATION%20NOTE%20JANUARY%202017.pdf/Files/IPO%20INFORMATION%20NOTE%20JANUARY%202017.pdf	<urlopen error [Errno 111] Connection refused>
+ipo	Safe country of origin information notice (April 2018)	https://web.archive.org/web/2018id_/http://www.ipo.gov.ie/en/IPO/SAFE%20COUNTRY%20OF%20ORIGIN%20INFORMATION%20NOTICE%20(APRIL%202018)%20ADDENDUM%202%20TO%20IPO.._%20(003).pdf/Files/SAFE%20COUNTRY%20OF%20ORIGIN%20INFORMATION%20NOTICE%20(APRIL%202018)%20ADDENDUM%202%20TO%20IPO.._%20(003).pdf	<urlopen error [Errno 111] Connection refused>
+dete	Employment Permits FAQs	https://enterprise.gov.ie/en/publications/publication-files/employment-permits-faqs-2024.pdf	HTTP 404
+dete	Employment Permits FAQs	https://web.archive.org/web/2id_/https://enterprise.gov.ie/en/publications/publication-files/employment-permits-faqs-2024.pdf	<urlopen error [Errno 111] Connection refused>
